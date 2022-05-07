@@ -3,107 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gavinstrunk.github.io/categories/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/other/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/post/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/post/sit-stand-desk/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/tutorial/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/categories/tutorial/</loc>
-    <lastmod>2020-04-28T08:44:57-04:00</lastmod>
+    <loc>https://example.org/portfolio/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/work10/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/categories/project/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/authors/hugo-authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gavinstrunk.github.io/authors/jane-smith/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gavinstrunk.github.io/authors/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gavinstrunk.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gavinstrunk.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gavinstrunk.github.io/series/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
   
 </urlset>
