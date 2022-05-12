@@ -6,19 +6,48 @@
     <description>Recent content in Portfolios on Gavin Strunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jan 2022 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="https://gavinstrunk.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Integer Programming for NY Times Games</title>
+      <link>https://gavinstrunk.github.io/portfolio/comingsoon/</link>
+      <pubDate>Wed, 11 May 2022 19:41:01 +0530</pubDate>
+      
+      <guid>https://gavinstrunk.github.io/portfolio/comingsoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Greedy Clustering-Based Algorithm for Improving Multi-point Robotic Manipulation Sequencing</title>
       <link>https://gavinstrunk.github.io/portfolio/greedy-clustering-based-algorithm/paper/</link>
-      <pubDate>Wed, 05 Jan 2022 19:41:01 +0530</pubDate>
+      <pubDate>Sun, 01 May 2022 19:41:01 +0530</pubDate>
       
       <guid>https://gavinstrunk.github.io/portfolio/greedy-clustering-based-algorithm/paper/</guid>
       <description>&lt;p&gt;Gavin Strunk&lt;br&gt;
 May 2022&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Supervised Autonomy for Advanced Perception and Hydrocarbon Leak Detection</title>
+      <link>https://gavinstrunk.github.io/portfolio/supervised-autonomy-for-advanced-perception-and-hydrocarbon-leak-detection/paper/</link>
+      <pubDate>Fri, 30 Oct 2020 19:41:01 +0530</pubDate>
+      
+      <guid>https://gavinstrunk.github.io/portfolio/supervised-autonomy-for-advanced-perception-and-hydrocarbon-leak-detection/paper/</guid>
+      <description>&lt;p&gt;Andrew Speck, Arnaud Croux, Arnaud Jarrot, Gavin Strunk, Gloria Choi, Timothy P Osedach, Andriy Gelman, Nader Salman, Theo Bodrito, Stephane Vannuffelen, Gocha Chochua&lt;br&gt;
+October 2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Supervised Multi-Agent Autonomy for Cost-Effective Subsea Operations</title>
+      <link>https://gavinstrunk.github.io/portfolio/supervised-multi-agent-autonomy-for-cost-effective-subsea-operations/paper/</link>
+      <pubDate>Mon, 04 May 2020 19:41:01 +0530</pubDate>
+      
+      <guid>https://gavinstrunk.github.io/portfolio/supervised-multi-agent-autonomy-for-cost-effective-subsea-operations/paper/</guid>
+      <description>&lt;p&gt;Jack Vincent, Stephane Vannuffelen, Sepand Ossia, Andrew Speck, Gavin Strunk, Arnaud Croux, Arnaud Jarrot, Gloria Choi, Timothy P Osedach, Andriy Gelman, Sebastien Grall, Guillaume Eudeline&lt;br&gt;
+May 2020&lt;/p&gt;</description>
     </item>
     
   </channel>

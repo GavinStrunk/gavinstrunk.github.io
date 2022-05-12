@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gavinstrunk.github.io/portfolio/comingsoon/</loc>
+    <lastmod>2022-05-11T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gavinstrunk.github.io/portfolio/greedy-clustering-based-algorithm/paper/</loc>
+    <lastmod>2022-05-01T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gavinstrunk.github.io/portfolio-template/</loc>
     <lastmod>2022-01-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/portfolio/greedy-clustering-based-algorithm/paper/</loc>
-    <lastmod>2022-01-05T19:41:01+05:30</lastmod>
+    <loc>https://gavinstrunk.github.io/portfolio/supervised-autonomy-for-advanced-perception-and-hydrocarbon-leak-detection/paper/</loc>
+    <lastmod>2020-10-30T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://gavinstrunk.github.io/</loc>
-    <lastmod>2022-01-05T19:41:01+05:30</lastmod>
+    <loc>https://gavinstrunk.github.io/portfolio/supervised-multi-agent-autonomy-for-cost-effective-subsea-operations/paper/</loc>
+    <lastmod>2020-05-04T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://gavinstrunk.github.io/portfolio/</loc>
+    <lastmod>2022-05-11T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gavinstrunk.github.io/</loc>
     <lastmod>2022-01-05T19:41:01+05:30</lastmod>
   </url>
   
